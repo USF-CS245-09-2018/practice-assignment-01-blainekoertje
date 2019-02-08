@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/USF-CS245-09-2018/practice-assignment-02-blainekoertje.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/usf-cs245-spring19/mazeSolver-blainekoertje" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PracticeAssignment1" />
